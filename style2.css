@@ -1,0 +1,20 @@
+
+
+
+@font-face {
+    
+font-family: 'webfontregular';
+    
+src: url('v-webfont.woff2') format('woff2'),
+         
+url('v-webfont.woff') format('woff');
+    
+font-weight: normal;
+    
+font-style: normal;
+
+}
+
+p.x { font-family: 'webfontregular'; 
+    font-size: 35px;
+}
