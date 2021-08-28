@@ -1,0 +1,37 @@
+body { background-color : black; }
+     #content tr:hover{
+         background-color: grey;
+         text-shadow:0px 0px 10px red;
+     }
+     #content .first{
+         background-color: cadetblue;
+     }
+     #content .first:hover{
+         background-color: silver;
+         text-shadow:0px 0px 1px red;
+     }
+     table{
+         border: 1px green dotted;
+     }
+     a{
+         color: red;
+         text-decoration: none;
+     }
+     a:hover{
+         color: red;
+         text-shadow:0px 0px 10px red;
+     }
+     pre {
+         color: lime;
+         font-family: cursive;
+         font-size: 100%;
+     }
+     input.az,select,textarea{
+     color: lime;
+    text-align: center;
+     font-weight: bold;
+     border-left: black;
+     border-right: black;
+     background-color: black; 
+     font-size: 100%;
+     }
